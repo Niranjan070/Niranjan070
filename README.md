@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Niranjan T (Niranjan070)
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00CFFF,8A2BE2,32CD32&vCenter=true&width=750&lines=AI+Enthusiast;Data+Science+%26+Analytics+Enthusiast;Web+Developer;Machine+Learning+%7C+NLP+%7C+Deep+Learning;Turning+Data+into+Insights+%F0%9F%92%AB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&width=750&lines=AI+Enthusiast;Data+Science+%26+Analytics+Enthusiast;Web+Developer;Machine+Learning+%7C+NLP+%7C+Deep+Learning;Turning+Data+into+Insights+%F0%9F%92%AB&color=00CFFF&color=8A2BE2&color=32CD32&color=FF8C00&color=FF1493" alt="Typing SVG" />
+
 
 
 🎓 B.Tech AI & Data Science Student @ Karunya University  
