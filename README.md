@@ -21,6 +21,18 @@
 
 ## 🚀 Featured Projects
 
+
+### [AIRA – Multi-Agent AI Ecosystem](https://github.com/Niranjan070/aira)  
+🚀 A hackathon project where we built **AIRA (AI-powered Risk & Analytics system)** using CrewAI.  
+- Implements **multiple specialized agents** for Finance, Risk, Compliance, and Market analysis.  
+- Uses **vector databases + APIs** for enriched decision-making.  
+- CrewAI orchestration ensures **parallel execution, cross-agent validation, and synthesized recommendations**.  
+- Outputs **JSON-based reports** with insights on ROI, risk scores, compliance status, and market potential.  
+
+📌 *Novelty:* Unlike traditional decision-making systems, AIRA enables **collaborative multi-agent intelligence** tailored for enterprise use cases.  
+
+---
+
 ### [portfolio](https://github.com/Niranjan070/portfolio)  
 A responsive personal portfolio built with HTML, CSS & JavaScript. Features a project gallery, resume section, and contact form.  
 
