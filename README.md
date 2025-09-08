@@ -1,3 +1,5 @@
+![Cover Image](assets/1.png)
+
 # 👋 Hi, I’m Niranjan T (Niranjan070)
 
 
